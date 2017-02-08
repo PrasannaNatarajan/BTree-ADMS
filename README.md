@@ -11,7 +11,7 @@ Inputs  : Choice of manual entry or randomized number insertion into the tree.
 Outputs : Results of Traversal, Search.
 
 ## CONTRIBUTORS:
-Atish Majumdar 	    : 1410110081  
+<a href = "https://github.com/atish-maj">Atish Majumdar</a>   : 1410110081  
 <a href = "https://github.com/PrasannaNatarajan">Prasanna Natarajan</a>  : 1410110298  
 <a href = "https://github.com/vedantcj">Vedant Chakravarthy</a> : 1410110489  
 
