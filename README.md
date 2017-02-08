@@ -11,9 +11,9 @@ Inputs  : Choice of manual entry or randomized number insertion into the tree.
 Outputs : Results of Traversal, Search.
 
 ## CONTRIBUTORS:
-<a href = "https://github.com/atish-maj">Atish Majumdar</a>   : 1410110081  
-<a href = "https://github.com/PrasannaNatarajan">Prasanna Natarajan</a>  : 1410110298  
-<a href = "https://github.com/vedantcj">Vedant Chakravarthy</a> : 1410110489  
+<a href = "https://github.com/atish-maj">Atish Majumdar</a>       : 1410110081  
+<a href = "https://github.com/PrasannaNatarajan">Prasanna Natarajan</a>   : 1410110298  
+<a href = "https://github.com/vedantcj">Vedant Chakravarthy</a>   : 1410110489  
 
 ## THANKS TO:
 The algorithm for the code was inspired from __"Introduction to Algorithms" by Leiserson, Stein, Rivest and Cormen__.
